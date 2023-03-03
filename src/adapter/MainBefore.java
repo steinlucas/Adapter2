@@ -1,6 +1,7 @@
 package adapter;
 
-public class MainAntes {
+public class MainBefore {
+	
 	public static void main(String[] args) {
 		Facebook facebook  =  new Facebook();
 		facebook.updateStatus("Message");

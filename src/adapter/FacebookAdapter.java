@@ -7,5 +7,4 @@ public class FacebookAdapter extends Facebook implements SocialNetworks {
 		System.out.println("Facebook: " + message);
 		// TODO Auto-generated method stub
 	}
-
 }

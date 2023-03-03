@@ -1,11 +1,10 @@
 package adapter;
 
-//package structurals.adapter.exercise2;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainDepois {
+public class MainAfter {
+	
 	public static void main(String[] args) {
 		List<SocialNetworks> list =  new ArrayList<SocialNetworks>();
 		list.add(new FacebookAdapter());
